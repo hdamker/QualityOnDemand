@@ -7,7 +7,7 @@
 
 # QualityOnDemand
 
-Repository to describe, develop, document and test the QualityOnDemand API family
+Repository to describe, develop, document and test the QualityOnDemand API family.
 
 ## Scope
 
