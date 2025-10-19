@@ -7,7 +7,7 @@
 <a href="https://github.com/camaraproject/QualityOnDemand/releases/latest" title="Latest Release"><img src="https://img.shields.io/github/release/camaraproject/QualityOnDemand?style=plastic"></a>
 <a href="https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md" title="Incubating API Repository"><img src="https://img.shields.io/badge/Incubating%20API%20Repository-green?style=plastic"></a>
 
-# QualityOnDemand
+# Quality [TEST]OnDemand
 
 Incubating API Repository to evolve and maintain the definitions and documentation of QualityOnDemand Service API(s) within the Sub Project [Quality On Demand](https://lf-camaraproject.atlassian.net/wiki/x/hAClB)
 
