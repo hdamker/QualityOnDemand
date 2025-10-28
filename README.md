@@ -50,7 +50,6 @@ Incubating API Repository to evolve and maintain the definitions and documentati
 * The latest public release is available here: https://github.com/camaraproject/QualityOnDemand/releases/latest
 * Other releases of this repository are available in https://github.com/camaraproject/QualityOnDemand/releases
 * For changes see [CHANGELOG.md](https://github.com/camaraproject/QualityOnDemand/blob/main/CHANGELOG.md)
-
 <!-- CAMARA:RELEASE-INFO:END -->
 
 ## Contributing
