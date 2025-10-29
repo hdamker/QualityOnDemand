@@ -47,7 +47,7 @@ Incubating API Repository to evolve and maintain the definitions and documentati
   [[YAML]](https://github.com/camaraproject/QualityOnDemand/blob/r3.2/code/API_definitions/quality-on-demand.yaml)
   [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/QualityOnDemand/r3.2/code/API_definitions/quality-on-demand.yaml&nocors)
   [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/QualityOnDemand/r3.2/code/API_definitions/quality-on-demand.yaml)
-* The latest public release is also available here: https://github.com/camaraproject/QualityOnDemand/releases/latest
+* The latest public release is always available here: https://github.com/camaraproject/QualityOnDemand/releases/latest
 * Other releases of this repository are available in https://github.com/camaraproject/QualityOnDemand/releases
 * For changes see [CHANGELOG.md](https://github.com/camaraproject/QualityOnDemand/blob/main/CHANGELOG.md)
 <!-- CAMARA:RELEASE-INFO:END -->
